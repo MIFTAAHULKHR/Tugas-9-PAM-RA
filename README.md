@@ -7,7 +7,6 @@ Berikut adalah antarmuka pengguna dari AI Content Summarizer:
 
 <img src="pict/Tampilan.png" alt="Tampilan Aplikasi" width="300"/>
 
-*(Ukuran gambar disesuaikan agar proporsional pada perangkat mobile)*
 
 ---
 
